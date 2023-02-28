@@ -21,6 +21,12 @@ Mini Amplificador De Audio
 
 - Conocer el funcionamiento de y estructura de un parlante
 
+# Marco teorico 
+
+El integrado LM386 es un circuito integrado que consiste en un amplificador que requiere bajo voltaje, tanto en la entrada de señal como en la alimentación. Es frecuentemente usado en amplificadores para computadoras(parlantes), radios, amplificadores de guitarra, etc. Suministrando 9 voltios en el pin 8 se puede obtener 0,5 vatios de potencia y solo un 0,2% de distorsión. Este es un simple amplificador de audio, que se puede usar para amplificar señales de equipos portátiles, como radios, reproductores mp3, parlantes para PC, etc. que no requieran de alta potencia de salida.
+
+![Imagen de WhatsApp 2023-02-28 a las 11 14 29](https://user-images.githubusercontent.com/117695777/221921699-c38f01a9-d807-47a4-80d0-ceb748a26470.jpg)
+
 # Materiales: 
 
 ![image](https://user-images.githubusercontent.com/117695777/221905339-559e152a-78e6-4a46-ab65-723d8b2e04a3.png)
