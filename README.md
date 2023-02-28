@@ -45,8 +45,10 @@ Mini Amplificador De Audio
 - De la pata 2 del integrado conectamos a la parte negativa
 - Conectamos la terminal a la pata negativa del condensador y la otra a la 
 
-Video:
+# Video:
+
 https://www.youtube.com/watch?v=sf89GV_oIVI&feature=youtu.be
  
-Bibliografía:
+#Bibliografía:
+
 Mini-Amplificador de audio con LM386. (s/f). Deperu.com. Recuperado el 28 de febrero de 2023, de https://www.deperu.com/electronica/circuitos-basicos/mini-amplificador-de-audio-con-lm386-44
